@@ -1,3 +1,25 @@
+
+
+
+// let cars = {mark: "Toyota", year: 2018, price: "25.000$", color: 'black'}
+
+// for (let a in cars) {
+//     console.log(a + " - " + cars[a]);
+// }
+
+
+// let cars = {mark: "Toyota", year: 2018, price: "25.000$", color: 'black'}
+// for (let [kalit, qiymat] of Object.entries (cars)) {
+//     console.log(kalit + " " + qiymat);
+// }
+
+
+
+
+
+
+
+
 // 1-masala
 
 
@@ -24,4 +46,11 @@
 
 // //   4-masala
 
+
+//  //  6-masala
+
+
+// let numbers = [94, 49, 32, 64, 20, 19]
+
+// console.log(numbers.reverse());
 
